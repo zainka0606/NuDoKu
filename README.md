@@ -1,3 +1,1 @@
-# NuDoKu
-
-The Nu sudoku helper. Based on HoDoKu.
+### NuDoKu: The Nu and improved HoDoKu.

@@ -499,10 +499,10 @@ public final class Options {
     public static final int BDS_SEARCH_CANDIDATES_ANZ = 0;
     public static final int GENERATOR_PATTERN_INDEX = -1;
     private static final Options.ProgressComparator progressComparator = new Options.ProgressComparator();
-    public static Font DEFAULT_VALUE_FONT = new Font("Tahoma", 0, 10);
-    public static Font DEFAULT_CANDIDATE_FONT = new Font("Tahoma", 0, 10);
-    public static Font BIG_FONT = new Font("Arial", 1, 18);
-    public static Font SMALL_FONT = new Font("Arial", 0, 14);
+    public static Font DEFAULT_VALUE_FONT = new Font("Tahoma", 0, 12);
+    public static Font DEFAULT_CANDIDATE_FONT = new Font("Tahoma", 0, 12);
+    public static Font BIG_FONT = new Font("Arial", 1, 20);
+    public static Font SMALL_FONT = new Font("Arial", 0, 16);
     public static Options instance = null;
     private static String[] availableFontNames = null;
     public StepConfig[] solverSteps = null;
